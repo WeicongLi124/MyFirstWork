@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyFirstWork</string>
+    <string name="start">Start</string>
+    <string name="login">login</string>
+    <string name="register">NO ACCOUNT YET? SIGUP NOW</string>
+    <string name="Map">FORGET PASSWORD?</string>
+    <string name="signup">signup</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="Password">Password</string>
+    <string name="Retypepassword">Retype Password</string>
+    <string name="email_id">Email Id</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="Username">User name</string>
+    <string name="Marquee">Attention! Construction AHEAD!</string>
+    <string name="Exit">Exit</string>
+    <string name="Back">Back</string>
+    <string name="startlocation">Startlocation</string>
+    <string name="stoplocation">Stoplocation</string>
+</resources>
